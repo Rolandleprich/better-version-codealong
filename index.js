@@ -2,6 +2,4 @@
 // more smart words
 
 // ...
-// words
-
-// word
+// made some great changes
