@@ -69,3 +69,9 @@ DISK: {rgb(255,131,0) ${disk.used / disk.total * 100}%}
 log(chalk.keyword('orange')('Yay for orange colored text!'));
 log(chalk.rgb(123, 45, 67).underline('Underlined reddish color'));
 log(chalk.hex('#DEADED').bold('Bold gray!'));
+
+
+//Das
+//klappt
+//ja
+//super
